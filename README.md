@@ -35,8 +35,6 @@ Currently, tldraw can only be used inside of a React app. You may need to instal
 To use tldraw, import the `Editor` component from `@tldraw/editor` and `globalStyles` from `@tldraw/styles`, and use them as shown in the example below.
 
 ```tsx
-// EXAMPLE API - NOT YET IMPLEMENTED
-
 import Editor from "@tldraw/editor"
 import { globalStyles } from "@tldraw/styles"
 
