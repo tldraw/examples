@@ -1,9 +1,6 @@
 import Head from "next/head"
-import { globalStyles } from "@tldraw/styles"
 
 function MyApp({ Component, pageProps }) {
-  globalStyles()
-
   return (
     <>
       <Head>
