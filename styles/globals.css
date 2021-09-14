@@ -14,3 +14,38 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.home {
+  padding: 2em 3em;
+}
+
+.home h2 a {
+  padding: 0.5em 1em;
+  margin: 0 -1em;
+  border-radius: 4px;
+}
+
+.home ul {
+  list-style: none;
+  padding: 0;
+}
+
+.home a {
+  display: block;
+  font-size: 1.2em;
+  padding: 0.5em 1em;
+  margin: 0 -1em;
+  border-radius: 4px;
+}
+
+.home a:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.full {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
