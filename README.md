@@ -1,6 +1,6 @@
 # TLDraw Example
 
-This project shows how the [@tldraw/tldraw](https://github.com/tldraw/tldraw) component can be in a React app (specifically, a Next.js app).
+This project shows how the [@tldraw/core](https://github.com/tldraw/core) component can be in a React app (specifically, a Next.js app).
 
 ## Getting Started
 
