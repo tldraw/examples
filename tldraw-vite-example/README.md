@@ -5,4 +5,4 @@
 	</picture>
 </div>
 
-This repo contains very basic reference repositories for using [tldraw](https://github.com/tldraw/tldraw) in different frameworks.
+This repo contains a very basic example of how to use [tldraw](https://github.com/tldraw/tldraw) in a [Vite](https://vitejs.dev/) app.
