@@ -1,11 +1,12 @@
-import Editor from './components/Editor'
+import { Tldraw } from "@tldraw/tldraw";
+import "./App.css";
 
 function App() {
-	return (
-		<div className="tldraw__editor">
-			<Editor />
-		</div>
-	)
+  return (
+    <div style={{ position: "fixed", inset: 0 }}>
+      <Tldraw />
+    </div>
+  );
 }
 
-export default App
+export default App;

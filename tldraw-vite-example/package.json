@@ -16,11 +16,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tldraw/tldraw": "^2.0.0-canary.b9c6bf2fe84a",
+    "@tldraw/tldraw": "^2.0.0-beta.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "signia": "^0.1.4",
-    "signia-react": "^0.1.4"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
