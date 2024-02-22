@@ -9,7 +9,7 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
-		"@tldraw/tldraw": "latest",
+		"@tldraw/tldraw": "^2.0.0-beta.4",
 		"@types/node": "20.3.1",
 		"@types/react": "18.2.12",
 		"@types/react-dom": "18.2.5",
@@ -18,8 +18,6 @@
 		"next": "13.4.6",
 		"react": "18.2.0",
 		"react-dom": "18.2.0",
-		"signia": "latest",
-		"signia-react": "latest",
 		"typescript": "5.1.3"
 	}
 }

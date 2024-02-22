@@ -16,7 +16,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
-		"@tldraw/tldraw": "latest",
+		"@tldraw/tldraw": "^2.0.0-beta.4",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"signia": "^0.1.4",
