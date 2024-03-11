@@ -1,8 +1,4 @@
-<div alt style="text-align: center; transform: scale(.5);">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tldraw/tldraw/main/assets/github-hero-dark-draw.png" />
-		<img alt="tldraw" src="https://raw.githubusercontent.com/tldraw/tldraw/main/assets/github-hero-light-draw.png" />
-	</picture>
-</div>
+This repo is now archived and out-of-date.
 
-This repo contains very basic reference repositories for using [tldraw](https://github.com/tldraw/tldraw) in different frameworks.
+- If you're looking for a starter template to work off of, please check out [our Vite template](https://github.com/tldraw/vite-template).
+- If you're looking for some general examples to dive into, please check out [our examples app](https://examples.tldraw.com/).
